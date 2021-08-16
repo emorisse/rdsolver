@@ -26,7 +26,7 @@ def asdm(
     rho_a : float
         Production rate of activator at saturation.
     rho_s : float
-        Delpletion rate of inhibitor at saturation.
+        Depletion rate of inhibitor at saturation.
     sigma_a : float
         Basal production rate of activator.
     sigma_s : float
